@@ -1,6 +1,6 @@
 <html>
     <body>
-        <div style="background-color:#272a5e;width:100%;height:50px;">  
+        <img url="gitlab.com"/>
         </div>
     </body>
 </html>
