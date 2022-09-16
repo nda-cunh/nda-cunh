@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <html>
     <body>
         <img src="gitlab.png"/>
-        <a href="https://gitlab.com/hydrasho/SupraVim"><img src="vim.png"></a>
+        <a href="https://gitlab.com/hydrasho/SupraVim"><img src="vim2.png"></a>
         <a href="https://gitlab.com/hydrasho/push_swap-testeur-max"><img src="push.png"></a>
         <a href="https://gitlab.com/hydrasho/push_swap-testeur-max"><img src="visua.png"></a>
         <a href="https://gitlab.com/hydrasho/push_swap-testeur-max"><img src="bg.png"></a>
