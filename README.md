@@ -7,3 +7,5 @@
         <a href="https://gitlab.com/hydrasho/burgersdl"><img height="100" src="bg.png"></a>
     </body>
 </html>
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=hydrasho&theme=dracula
