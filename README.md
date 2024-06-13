@@ -9,6 +9,7 @@ Moi c'est nathan , t'es surement ici pour le **supravim** ou **suprapack** ou ce
  | [<img src="https://gitlab.com/uploads/-/system/project/avatar/48647452/patate.png?width=64"> ` SupraPatate `](https://gitlab.com/nda-cunh/suprapatate)|[<img src="https://gitlab.com/uploads/-/system/project/avatar/38214141/Screenshot_from_2022-07-30_10-21-28.png?width=64"> ` PUSHSWAP TESTER `](https://gitlab.com/nda-cunh/push_swap-testeur-max)|[<img src="https://gitlab.com/uploads/-/system/project/avatar/50605752/abc.png?width=64"> ` Libft Tester `](https://gitlab.com/nda-cunh/libft_tester)|
  |[<img src="https://gitlab.com/uploads/-/system/project/avatar/40367488/cxgfghjfghjghdjghdjghjfghj.png?width=64"> ` Minitalk Tester `](https://gitlab.com/nda-cunh/minitalk_tester) |[<img src="https://gitlab.com/uploads/-/system/project/avatar/56552194/pipex.png?width=64"> `Pipex Tester `](https://gitlab.com/nda-cunh/pipex_tester) | |
 
+[![nda-cunh's 42 stats](https://badge.mediaplus.ma/colorfulwaves/nda-cunh?1337Badge=off&UM6P=off)](https://gitlab.com/nda-cunh)
  
 # Vala
 
