@@ -5,7 +5,6 @@ Ce compte github est un miroir vers mon gitlab
 
 Faites vos MergeRequest sur gitlab! 
 
-<img src="https://wakatime.com/share/@a01b87f8-a707-4cbb-9d75-ddde0f3521e7/d47fd2bb-c119-4764-a1c1-5c490d8f59ed.svg"></img>
-
-[<img src="https://i0.wp.com/discovery.endeavouros.com/wp-content/uploads/2019/10/GitLab-logo.png?ssl=1" height=142>](https://gitlab.com/nda-cunh)
+<br>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@ndacunh&theme=dark&layout=compact&langs_count=10&border_radius=25&hide_title=true" alt="etienne wakatime stats" />
 <img src="https://github-readme-stats.vercel.app/api?username=nda-cunh&show_icons=true&theme=dracula">
