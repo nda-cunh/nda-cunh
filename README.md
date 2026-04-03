@@ -23,9 +23,9 @@ Je code principalement en **C**, **Vala / GTK** et en **vim9script**.
 
 ### 📊 Activité
 
-<div align="center">
-  <img src=https://vercel-ten-kappa-62.vercel.app/api/wakatime?username=@ndacunh&theme=dark&layout=compact&langs_count=10&border_radius=25&hide_title=true&hide=text,Other,ca65%20assembler" />
-</div>
+<p align="center">
+    <img align="center", src="https://vercel-ten-kappa-62.vercel.app/api/wakatime?username=@ndacunh&theme=transparent&layout=compact&langs_count=16&border_radius=25&hide_title=true&hide_border=true" alt="nda-cunh wakatime stats" />
+</p>
 
 <div align="center">
   <img src="https://vercel-ten-kappa-62.vercel.app/api?username=nda-cunh&show_icons=true&theme=dracula" />
