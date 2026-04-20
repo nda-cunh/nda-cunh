@@ -23,6 +23,7 @@ Je code principalement en **C**, **Vala / GTK** et en **vim9script**.
 
 ### 📊 Activité
 
+<p align="center">Since October 17th 2025</p>
 <p align="center">
     <img align="center", src="https://vercel-ten-kappa-62.vercel.app/api/wakatime?username=@ndacunh&theme=transparent&layout=compact&langs_count=16&border_radius=25&hide_title=true&hide_border=true" alt="nda-cunh wakatime stats" />
 </p>
